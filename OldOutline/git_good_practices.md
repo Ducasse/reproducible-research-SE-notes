@@ -1,0 +1,1 @@
+## Git Good Practices### Small commits### Meaningful commits### Status and Diff before Commit### Commit before Pull / Merge### Useful Commit Messages

@@ -1,0 +1,1 @@
+<!inputFile|path=version_control.md!><!inputFile|path=git_basics.md!><!inputFile|path=git_practical.md!><!inputFile|path=git_good_practices.md!><!inputFile|path=git_advanced.md!><!inputFile|path=workflows.md!>
